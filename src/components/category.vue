@@ -127,8 +127,9 @@ export default {
   width: 100%;
   font-weight: 500;
   padding: 5px 6px;
-  background-color: #fff;
-  background-color: rgba(255, 255, 255, .95);
+  color: #5c5c5c;
+  background-color: #111;
+  background-color: rgba(0, 0, 0, .95);
 }
 
 .emoji-mart-no-results {

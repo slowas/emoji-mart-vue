@@ -328,7 +328,7 @@ export default {
   color: #222427;
   border: 1px solid #d9d9d9;
   border-radius: 5px;
-  background: #fff;
+  background: #111;
 }
 
 .emoji-mart-bar {
